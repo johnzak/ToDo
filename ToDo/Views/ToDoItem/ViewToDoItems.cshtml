@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Domain.Entities.ToDoItem>
+
+@{
+    ViewData["Title"] = "View ToDo Items";
+    Layout = "~/Views/Shared/_Layout_LoggedIn.cshtml";
+}
+
+<h1>View ToDo Items</h1>
+
+<p>
+    <a asp-action="Create" asp-controller="ToDoItem" asp-route-ToDoListId="@Model.FirstOrDefault()?.ToDoListID">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Checked)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Priority)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateCreated)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Checked)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Priority)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateCreated)
+            </td>
+            
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.Id  }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.Id}) |
+                @Html.ActionLink("Check", "Check", new {  id=item.Id})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

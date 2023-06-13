@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91ad8880-4d5e-4bc6-b7f2-bc2c7a5051c8": {
+      "ProjectGuid": "91ad8880-4d5e-4bc6-b7f2-bc2c7a5051c8",
+      "DisplayName": "ToDo",
+      "ColorIndex": 0
+    },
+    "416d31b7-29c2-4323-98ad-cfa1dec6d419": {
+      "ProjectGuid": "416d31b7-29c2-4323-98ad-cfa1dec6d419",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

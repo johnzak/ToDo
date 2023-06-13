@@ -1,0 +1,17 @@
+C:\Users\johnm\source\repos\ToDo\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\johnm\source\repos\ToDo\Services\bin\Debug\net6.0\Services.dll
+C:\Users\johnm\source\repos\ToDo\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\johnm\source\repos\ToDo\Services\bin\Debug\net6.0\Domain.dll
+C:\Users\johnm\source\repos\ToDo\Services\bin\Debug\net6.0\Repo.dll
+C:\Users\johnm\source\repos\ToDo\Services\bin\Debug\net6.0\Domain.pdb
+C:\Users\johnm\source\repos\ToDo\Services\bin\Debug\net6.0\Repo.pdb
+C:\Users\johnm\source\repos\ToDo\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\johnm\source\repos\ToDo\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\source\repos\ToDo\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\johnm\source\repos\ToDo\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\johnm\source\repos\ToDo\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\johnm\source\repos\ToDo\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\johnm\source\repos\ToDo\Services\obj\Debug\net6.0\Services.dll
+C:\Users\johnm\source\repos\ToDo\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\johnm\source\repos\ToDo\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\johnm\source\repos\ToDo\Services\obj\Debug\net6.0\ref\Services.dll

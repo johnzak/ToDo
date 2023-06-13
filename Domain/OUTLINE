@@ -1,0 +1,27 @@
+﻿Classes:
+	• User:
+		○ Username
+		○ Pass
+		○ UserID
+		○ Name
+		
+	• To- Do-list:
+		○ Add
+		○ Edit
+		○ Delete
+		○ ID
+		○ UserID(foreign)
+		○ Access
+		○ Items
+		
+	• To-Do-Item:
+		○ String data
+		○ ToDoListID
+		○ ItemID(foreign)
+		○ checkbox
+		○ Priority (important, normal , عادي)
+		
+	• Quotes:
+		○ Category:
+			§ Drop down.
+		

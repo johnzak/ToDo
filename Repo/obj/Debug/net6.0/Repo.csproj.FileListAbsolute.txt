@@ -1,0 +1,15 @@
+C:\Users\johnm\source\repos\ToDo\Repo\bin\Debug\net6.0\Repo.deps.json
+C:\Users\johnm\source\repos\ToDo\Repo\bin\Debug\net6.0\Repo.dll
+C:\Users\johnm\source\repos\ToDo\Repo\bin\Debug\net6.0\Repo.pdb
+C:\Users\johnm\source\repos\ToDo\Repo\bin\Debug\net6.0\Domain.dll
+C:\Users\johnm\source\repos\ToDo\Repo\bin\Debug\net6.0\Domain.pdb
+C:\Users\johnm\source\repos\ToDo\Repo\obj\Debug\net6.0\Repo.csproj.AssemblyReference.cache
+C:\Users\johnm\source\repos\ToDo\Repo\obj\Debug\net6.0\Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\source\repos\ToDo\Repo\obj\Debug\net6.0\Repo.AssemblyInfoInputs.cache
+C:\Users\johnm\source\repos\ToDo\Repo\obj\Debug\net6.0\Repo.AssemblyInfo.cs
+C:\Users\johnm\source\repos\ToDo\Repo\obj\Debug\net6.0\Repo.csproj.CoreCompileInputs.cache
+C:\Users\johnm\source\repos\ToDo\Repo\obj\Debug\net6.0\Repo.csproj.CopyComplete
+C:\Users\johnm\source\repos\ToDo\Repo\obj\Debug\net6.0\Repo.dll
+C:\Users\johnm\source\repos\ToDo\Repo\obj\Debug\net6.0\refint\Repo.dll
+C:\Users\johnm\source\repos\ToDo\Repo\obj\Debug\net6.0\Repo.pdb
+C:\Users\johnm\source\repos\ToDo\Repo\obj\Debug\net6.0\ref\Repo.dll
